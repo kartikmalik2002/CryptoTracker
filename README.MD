@@ -18,7 +18,8 @@ User-Friendly Interface: Simple navigation with an intuitive and responsive UI.
 
 ### Tech Stack
 **Frontend**: Jetpack Compose (for UI components)
-*Backend*: CoinCap API
+
+**Backend**: CoinCap API
 
 API Reference
 This application uses the CoinCap API to fetch real-time cryptocurrency data and historical price information.
