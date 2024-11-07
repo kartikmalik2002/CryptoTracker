@@ -1,4 +1,4 @@
-## Crypto Tracker Application
+# Crypto Tracker Application
 
 A simple and intuitive crypto tracker application that provides up-to-date information on various cryptocurrencies. This app fetches data from the CoinCap API to display real-time information about different cryptocurrencies and their historical price trends through line graphs.
 
@@ -17,8 +17,8 @@ User-Friendly Interface: Simple navigation with an intuitive and responsive UI.
 ![CoinDetail Light](https://github.com/user-attachments/assets/4f053d30-3b1d-4a23-b770-f3208837e3bb)
 
 ### Tech Stack
-Frontend: Jetpack Compose (for UI components)
-Backend: CoinCap API
+*Frontend*: Jetpack Compose (for UI components)
+*Backend*: CoinCap API
 
 API Reference
 This application uses the CoinCap API to fetch real-time cryptocurrency data and historical price information.
