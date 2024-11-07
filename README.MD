@@ -21,19 +21,22 @@ User-Friendly Interface: Simple navigation with an intuitive and responsive UI.
 
 **Backend**: CoinCap API
 
-API Reference
+### API Reference
 This application uses the CoinCap API to fetch real-time cryptocurrency data and historical price information.
 
-Endpoints Used
+### Endpoints Used
 Get All Cryptocurrencies
 
-Endpoint: /v2/assets
-Description: Returns a list of all cryptocurrencies with their current data.
+**Endpoint**: /v2/assets 
+
+**Description**: Returns a list of all cryptocurrencies with their current data.
 Get Cryptocurrency Details
 
-Endpoint: /v2/assets/{id}
-Description: Provides details for a specific cryptocurrency, such as price, market cap, and volume.
+**Endpoint**: /v2/assets/{id}
+
+**Description**: Provides details for a specific cryptocurrency, such as price, market cap, and volume.
 Get Historical Price Data
 
-Endpoint: /v2/assets/{id}/history?interval=d1
+**Endpoint**: /v2/assets/{id}/history?interval=h6
+
 Description: Returns historical price data for a specific cryptocurrency. The interval can be adjusted (e.g., hourly, daily).
