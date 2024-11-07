@@ -17,7 +17,7 @@ User-Friendly Interface: Simple navigation with an intuitive and responsive UI.
 ![CoinDetail Light](https://github.com/user-attachments/assets/4f053d30-3b1d-4a23-b770-f3208837e3bb)
 
 ### Tech Stack
-*Frontend*: Jetpack Compose (for UI components)
+**Frontend**: Jetpack Compose (for UI components)
 *Backend*: CoinCap API
 
 API Reference
